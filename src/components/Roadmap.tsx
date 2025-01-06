@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 const Roadmap = () => {
   return (
     <div className="bg-white rounded-xl shadow-lg p-6 animate-fade-in">
-      <h2 className="text-2xl font-bold text-primary mb-4">$RIZZMAS Roadmap</h2>
+      <h2 className="text-2xl font-bold text-primary mb-4">$WindowButt Roadmap</h2>
       <p className="text-gray-600 mb-6">
         A Year-Long Celebration of Culture and Community
       </p>
