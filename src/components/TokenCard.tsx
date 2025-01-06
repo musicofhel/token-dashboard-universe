@@ -18,7 +18,7 @@ const TokenCard = () => {
     <div className="bg-white rounded-xl shadow-lg p-6 animate-fade-in">
       <div className="flex items-center justify-between mb-6">
         <div>
-          <h1 className="text-3xl font-bold text-primary">$RIZZMAS</h1>
+          <h1 className="text-3xl font-bold text-primary">$windowButt</h1>
           <p className="text-sm text-gray-500">Seasonal Solana Token</p>
         </div>
         <div className="px-3 py-1 bg-blue-100 text-primary rounded-full text-sm">
@@ -57,7 +57,7 @@ const TokenCard = () => {
 
       <div className="space-y-3">
         <Button className="w-full bg-primary hover:bg-primary/90">
-          Buy $RIZZMAS
+          Buy $windowButt
         </Button>
         <Button variant="outline" className="w-full">
           Buy Merch
